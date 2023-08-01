@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Oi 👋, Eu sou o Luiz</h1>
+<p>Sou um entusiasta de cibersegurança, dedicado a aprender e explorar os desafios das redes, Linux, e falhas web. Meu foco atual está em adquirir conhecimentos sólidos nessa área, buscando constantemente novos aprendizados para proteger sistemas e garantir a segurança de aplicações web. Acredito que cada dia de estudo é uma oportunidade para fortalecer minhas habilidades e alcançar excelência na cibersegurança, contribuindo para proteger informações sensíveis e enfrentar os desafios dessa área em constante evolução.</p>
 
-<!--
-**Lufeltz/Lufeltz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📚 Atualmente estou estudando: **Linux, Redes, Vulnerabilidades Web e realizando desafios de CTF.**
 
-Here are some ideas to get you started:
+<h3 align="left">Entre em contato:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/luiz-felipe-tozati-59b63a262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/luiz-felipe-tozati-59b63a262" height="30" width="40" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lufeltz&" alt="lufeltz" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=lufeltz&show_icons=true&locale=en" alt="lufeltz" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lufeltz&show_icons=true&locale=en&layout=compact" alt="lufeltz" />
