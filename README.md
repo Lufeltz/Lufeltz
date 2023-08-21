@@ -1,13 +1,32 @@
-<h1 align="center">Oi 👋, Eu sou o Luiz</h1>
-<p>Sou um entusiasta de cibersegurança, dedicado a aprender e explorar os desafios das redes, Linux, e falhas web. Meu foco atual está em adquirir conhecimentos sólidos nessa área, buscando constantemente novos aprendizados para proteger sistemas e garantir a segurança de aplicações web. Acredito que cada dia de estudo é uma oportunidade para fortalecer minhas habilidades e alcançar excelência na cibersegurança, contribuindo para proteger informações sensíveis e enfrentar os desafios dessa área em constante evolução.</p>
+<div style="display: flex; justify-content: center;">
+<pre>
+ _                 _______  _______  _    _________ _______ 
+( \      |\     /|(  ____ \(  ____ \( \   \__   __// ___   )
+| (      | )   ( || (    \/| (    \/| (      ) (   \/   )  |
+| |      | |   | || (__    | (__    | |      | |       /   )
+| |      | |   | ||  __)   |  __)   | |      | |      /   / 
+| |      | |   | || (      | (      | |      | |     /   /  
+| (____/\| (___) || )      | (____/\| (____/\| |    /   (_/\
+(_______/(_______)|/       (_______/(_______/)_(   (_______/
+</pre>
+</div>
 
-- 📚 Atualmente estou estudando: **Linux, Redes, Vulnerabilidades Web e realizando desafios de CTF.**
+- <code>🔐</code> Cybersecurity enthusiast with a passion for network, Linux, and web vulnerability exploration.
+- <code>🚀</code> Focused on establishing a solid foundation in cybersecurity.
+- <code>📖</code> Committed to continuous learning to enhance skills and secure systems and web applications.
+- <code>💡</code> Believes in daily studying as a chance to excel in cybersecurity and protect sensitive data.
+- <code>🛡️</code> Dedicated to facing evolving challenges in the field and contributing to safeguarding information.
 
-<h3 align="left">Entre em contato:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/luiz-felipe-tozati-59b63a262/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/luiz-felipe-tozati-59b63a262" height="30" width="40" /></a>
-</p>
+<code>📚</code> Currently, I am studying:
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lufeltz&" alt="lufeltz" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=lufeltz&show_icons=true&locale=en" alt="lufeltz" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lufeltz&show_icons=true&locale=en&layout=compact" alt="lufeltz" />
+- <code>📗</code> Linux
+- <code>🌐</code> Networking
+- <code>💀</code> Web Vulnerabilities
+- <code>🏳️</code> CTF Challenges.
+
+## Skills
+
+[![My Skills](https://skillicons.dev/icons?i=c,python,js,git,linux,powershell,bash,vim)](#)
+
+## Contact
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/luiz-tozati/)
