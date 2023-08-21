@@ -1,4 +1,3 @@
-<div style="display: flex; justify-content: center;">
 <pre>
  _                 _______  _______  _    _________ _______ 
 ( \      |\     /|(  ____ \(  ____ \( \   \__   __// ___   )
@@ -9,7 +8,6 @@
 | (____/\| (___) || )      | (____/\| (____/\| |    /   (_/\
 (_______/(_______)|/       (_______/(_______/)_(   (_______/
 </pre>
-</div>
 
 - <code>🔐</code> Cybersecurity enthusiast with a passion for network, Linux, and web vulnerability exploration.
 - <code>🚀</code> Focused on establishing a solid foundation in cybersecurity.
@@ -24,6 +22,10 @@
 - <code>💀</code> Web Vulnerabilities
 - <code>🏳️</code> CTF Challenges.
 
+<p>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Lufeltz.png" alt="TryHackMe">
+</p>
+ 
 ## Skills
 
 [![My Skills](https://skillicons.dev/icons?i=c,python,js,git,linux,powershell,bash,vim)](#)
