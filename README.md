@@ -28,7 +28,7 @@
  
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=python,linux,js,c,git,powershell,bash,vim)](#)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,angular,python,c,linux,git,docker)](#)
 
 ## Contact
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/luiz-tozati/)
