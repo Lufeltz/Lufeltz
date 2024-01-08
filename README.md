@@ -21,11 +21,8 @@
 - <code>🌐</code> Networking
 - <code>💀</code> Web Vulnerabilities
 - <code>🏳️</code> CTF Challenges.
+- <code>💻</code> .NET / Angular
 
-<p>
-<img src="https://tryhackme-badges.s3.amazonaws.com/Lufeltz.png" alt="TryHackMe">
-</p>
- 
 ## Skills
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,angular,python,c,linux,git,docker)](#)
